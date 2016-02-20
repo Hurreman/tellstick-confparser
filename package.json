@@ -1,0 +1,29 @@
+{
+  "name": "tellstick-confparser",
+  "version": "1.0.0",
+  "description": "Parser for tellstick.conf files",
+  "keywords": [
+    "telldus",
+    "TellStick",
+    "home automation"
+  ],
+  "author": {
+    "name": "Fredrik Grääs",
+    "email": "fredrik@graas.se"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Hurreman/tellstick-confparser.git"
+  },
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "license": "MIT",
+  "main": "./tellstick-confparser.js",
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "homepage": "https://github.com/Hurreman/tellstick-confparser#readme"
+}
