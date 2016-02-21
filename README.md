@@ -5,7 +5,7 @@ Tellstick-confparser is a package to read, parse and save [tellstick.conf]-files
 NOTE: You'll need to restart the telldusd service after modifing the tellstick.conf file! 
 
 ### Version
-1.0.0
+1.0.1
 
 ### Installation
 
