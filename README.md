@@ -18,7 +18,7 @@ $ npm install tellstick-confparser
 Read the content of your tellstick.conf file and log the resulting JSON:
 ```node
 var tsParser = require('tellstick-confparser');
-var configJson = parser.parseConfigFile( '/etc/tellstick.conf' );
+var configJson = tsParser.parseConfigFile( '/etc/tellstick.conf' );
 console.log( configJson );
 ```
 
